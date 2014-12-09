@@ -1,4 +1,4 @@
-# C++14’S Relaxing Requirements for constexpr Functions
+# C++14’s Relaxing Requirements for constexpr Functions
 
 Michelle Bray, Callan Fisher, Marc Simpson
 
